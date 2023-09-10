@@ -5,6 +5,7 @@ const allowedOrigins = [
   "http://localhost:5000",
   "https://real-estate-properties-ms-frontend.onrender.com",
   "https://javascript-real-estate-property-7i3r.onrender.com",
+  "http://192.168.1.175:3000",
 ];
 
 module.exports = allowedOrigins;
